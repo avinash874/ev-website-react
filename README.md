@@ -1,3 +1,5 @@
+we will make a website header design in React JS. In this website design we will add background video. We will also add full screen image slider to make the website more interactive using React JS. 
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
